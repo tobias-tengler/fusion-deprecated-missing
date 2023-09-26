@@ -1,0 +1,12 @@
+schema {
+  query: Query
+}
+
+type Query {
+  brandById(id: ID!): Brand
+}
+
+type Brand {
+  id: ID!
+  popularity: Int!
+}

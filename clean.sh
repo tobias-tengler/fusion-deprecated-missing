@@ -1,0 +1,1 @@
+rm subgraph1/subgraph1.fsp subgraph2/subgraph2.fsp gateway.fgp fusion-schema.graphql

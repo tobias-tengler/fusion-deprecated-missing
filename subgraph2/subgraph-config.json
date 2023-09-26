@@ -1,0 +1,1 @@
+{ "subgraph": "subgraph2", "http": { "baseAddress": "http://other-host.com/graphql" } }
